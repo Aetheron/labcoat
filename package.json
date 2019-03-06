@@ -1,14 +1,14 @@
 {
   "name": "labcoat",
   "main": "./lib/labcoat",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Interact with GitLab without leaving Atom",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "labcoat:toggle"
   },
-  "repository": "https://github.com/atom/labcoat",
+  "repository": "https://github.com/Aetheron/labcoat",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
