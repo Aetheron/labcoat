@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle labcoat",
+        "command": "labcoat:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "labcoat",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "labcoat:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
