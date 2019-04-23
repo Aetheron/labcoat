@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "labcoat",
+          "label": "Labcoat",
           "submenu": [
             {
               "label": "Toggle",

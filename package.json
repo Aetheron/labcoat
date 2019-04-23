@@ -1,5 +1,5 @@
 {
-  "name": "labcoat",
+  "name": "Labcoat",
   "main": "./lib/labcoat",
   "version": "0.1.0",
   "description": "Interact with GitLab without leaving Atom",
