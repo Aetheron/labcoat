@@ -14,13 +14,5 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-  },
-  "configSchema": {
-      "gitlabAPI": {
-          "title": "GitLab Personal Access Token",
-          "description": "A Personal Access Token you have generated in your GitLab User Settings. Must have `api` and `read-user` scope access.",
-          "type": "string",
-          "default": ""
-      }
   }
 }
