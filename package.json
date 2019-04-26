@@ -3,8 +3,7 @@
   "main": "./lib/labcoat",
   "version": "0.1.0",
   "description": "Interact with GitLab without leaving Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "labcoat:toggle"
   },
@@ -14,5 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
   }
 }
