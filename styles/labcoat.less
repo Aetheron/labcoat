@@ -40,6 +40,11 @@
     .refreshButton {
         position: absolute;
         right: -10px;
+    
+        &.rotate::before {
+            animation: spin 1.0s infinite linear;
+            transform-origin: 50% 56%;
+        }
     }
 }
 
